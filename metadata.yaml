@@ -1,0 +1,38 @@
+_repo: The-life-watch_74095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Del Rey, Lester
+    aliases:
+    - Rey, Lester del
+    - Knapp, Leonard
+    birthdate: 1915
+    deathdate: 1993
+    gutenberg_agent_id: '8240'
+    url: http://www.gutenberg.org/2009/agents/8240
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lester_del_Rey
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74095'
+language: en
+pgterms:marc905: 20240310123626delrey
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The life watch
+url: http://www.gutenberg.org/ebooks/74095
